@@ -2,7 +2,7 @@
 name: Release
 about: Create a new release in this project
 title: 'Release version {version} of this project'
-labels: component/[INSERT COMPONENT], kind/release
+labels: kind/release
 assignees: ''
 
 ---
