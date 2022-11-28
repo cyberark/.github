@@ -17,7 +17,7 @@ particular, consider:*
 
 Resolves #[relevant GitHub issue(s), e.g. 76]
 
-CyberArk internal issue link: [insert issue ID]()
+CyberArk internal issue ID: [insert issue ID]
 
 ### Definition of Done
 *At least 1 todo must be completed in the sections below for the PR to be
@@ -38,7 +38,7 @@ merged.*
 #### Documentation
 
 - [ ] Docs (e.g. `README`s) were updated in this PR
-- [ ] A follow-up issue to update official docs has been filed here: [insert issue ID]()
+- [ ] A follow-up issue to update official docs has been filed here: [insert issue ID]
 - [ ] This PR does not require updating any documentation
 
 #### Behavior
@@ -51,4 +51,4 @@ merged.*
 
 - [ ] Security architect has reviewed the changes in this PR,
 - [ ] These changes are part of a larger initiative with a separate security review, or
-- [ ] There are no security aspects to these changes 
+- [ ] There are no security aspects to these changes
