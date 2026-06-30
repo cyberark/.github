@@ -16,13 +16,13 @@ _Provide a short description of the epic here._
 - [Feature Doc]()
 
 ## Team
-- **Product Manager**: _Persons Name_ (@username)
-- **Product Owner**: _Persons Name_ (@username)
-- **Engineering Manager**: _Persons Name_ (@username)
-- **Feature Lead**: _Persons Name_ (@username)
+- **Product Manager**: _Person's Name_ (@username)
+- **Product Owner**: _Person's Name_ (@username)
+- **Engineering Manager**: _Person's Name_ (@username)
+- **Feature Lead**: _Person's Name_ (@username)
 - **Engineers**:
-    - _Persons Name_ (@username)
-- **Technical Writer**: _Persons Name_ (@username)
+    - _Person's Name_ (@username)
+- **Technical Writer**: _Person's Name_ (@username)
 
 ## Stories
 
