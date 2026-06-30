@@ -25,7 +25,7 @@ assignees: ''
 ## Actual Results
 
 *A clear and concise description of what actually did happen. Include logs and
-screens shots, whenever possible*
+screenshots, whenever possible*
 
 ## Reproducible
 

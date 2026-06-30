@@ -8,7 +8,7 @@ assignees: ''
 ---
 ## User Story
 
-*Using the form below, relate the desired product behavior.  Feel free to
+*Using the form below, relate the desired product behavior.  Feel free to add
 additional, clarifying details below it if needed.  For more details on user
 stories, see this [article](https://www.atlassian.com/agile/project-management/user-stories).*
 
@@ -19,7 +19,7 @@ stories, see this [article](https://www.atlassian.com/agile/project-management/u
 ### Test Scenarios
 
 *If desired, add one or more test scenarios required for user story acceptance.
-Ideally, they are executed by automated tests. For more details on Gerkin syntax,
+Ideally, they are executed by automated tests. For more details on Gherkin syntax,
 see this [article](https://cucumber.io/docs/gherkin/reference/)*
 
 **Given** <this setup/context>
